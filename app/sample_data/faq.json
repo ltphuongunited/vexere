@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Tôi muốn biết chính sách hoàn vé là gì?",
+    "answer": "Nếu hủy vé trước 24 giờ trước giờ khởi hành, bạn sẽ được hoàn 80% giá vé. Sau thời gian này, vé không được hoàn lại."
+  },
+  {
+    "question": "Tôi có được mang theo hành lý không?",
+    "answer": "Bạn được phép mang 1 kiện hành lý xách tay (tối đa 10kg) và 1 kiện hành lý ký gửi (tối đa 20kg) miễn phí."
+  },
+  {
+    "question": "Làm sao để đổi giờ khởi hành?",
+    "answer": "Bạn có thể đổi giờ bằng cách vào mục 'Quản lý vé', chọn 'Đổi giờ', hoặc liên hệ tổng đài trước 6 giờ so với giờ khởi hành."
+  },
+  {
+    "question": "Thông tin liên hệ tổng đài là gì?",
+    "answer": "Tổng đài chăm sóc khách hàng của Vexere là 1900 9696 81, hoạt động từ 7:00 đến 22:00 mỗi ngày."
+  },
+  {
+    "question": "Có thể xuất hóa đơn sau khi đi không?",
+    "answer": "Có. Bạn có thể yêu cầu xuất hóa đơn qua chatbot hoặc email trong vòng 7 ngày sau khi hoàn tất chuyến đi."
+  },
+  {
+    "question": "Tôi có thể đặt vé cho người khác không?",
+    "answer": "Hoàn toàn có thể. Trong quá trình đặt vé, bạn chỉ cần nhập thông tin người đi thay vì thông tin của bạn."
+  }
+]

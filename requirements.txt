@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+langchain
+faiss-cpu
+tiktoken
+python-dotenv
+langchain-community
+langchain-google-genai
+gradio
